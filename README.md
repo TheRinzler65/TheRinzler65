@@ -11,9 +11,9 @@ Je suis toujours à la recherche de nouveaux défis et d'opportunités pour appr
 ## 📂 Mes projets récents
 Voici quelques-uns de mes projets récents :
 
-- NDS-Shop - Brève description du projet.
-- Convertisseur 3DS to CIA - Brève description du projet.
-- Inazuma Eleven GO Galaxy Supernova | BigBang FR.
+- NDS-Shop - An online database of DS games in Universal-Updater.
+- Convertisseur 3DS to CIA - Un simple convertisseur 3DS vers CIA.
+- Inazuma Eleven GO Galaxy Supernova | BigBang FR - Le projet est de tout traduire en Français à 100%
 
 ## 🔗 Comment me contacter
 Vous pouvez me trouver sur :
