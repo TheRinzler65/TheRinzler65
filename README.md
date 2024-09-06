@@ -2,10 +2,10 @@
 
 ## 👨‍💻 À propos de moi
 
-Salut, je suis Rinzler, un développeur passionné par le homebrew 3DS ainsi que des programmes et des traduction de celui-ci.
-J'ai de l'expérience dans diverses technologies comme :
+Salut, je suis Rinzler, un développeur passionné par le homebrew 3DS, ainsi que par le développement de programmes et la traduction de ceux-ci.
 
 Langages : HTML, CSS | Je débute en : Python, JavaScript
+
 Je suis toujours à la recherche de nouveaux défis et d'opportunités pour apprendre et partager mes connaissances.
 
 ## 📂 Mes projets récents
