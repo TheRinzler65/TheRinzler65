@@ -15,7 +15,7 @@ Voici quelques-uns de mes projets récents :
 - Convertisseur 3DS to CIA - Un simple convertisseur 3DS vers CIA.
 - Inazuma Eleven GO Galaxy Supernova | BigBang FR - Le projet est de tout traduire en Français à 100%
 
-## 🔗 Comment me contacter
+## 🔗 Où me suivre ?
 Vous pouvez me trouver sur :
 
 - [Discord](https://discord.gg/heUzNmpXgM)
