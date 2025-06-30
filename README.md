@@ -16,8 +16,8 @@
 ### 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TonPseudoIci&show_icons=true&theme=radical&hide=issues" alt="Stats GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonPseudoIci&layout=compact&theme=radical" alt="Langues" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TheRinzler65&show_icons=true&theme=radical&hide=issues" alt="Stats GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRinzler65&layout=compact&theme=radical" alt="Langues" />
 </p>
 
 ---
