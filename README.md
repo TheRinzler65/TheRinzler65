@@ -32,6 +32,8 @@
 
 ### 🌐 Me retrouver ailleurs
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/:590070698140237826)](https://discord.com/users/:590070698140237826)
+
 <p align="center">
   <a href="https://gruetleo.fr" target="_blank"><img src="https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/tonprofil" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
