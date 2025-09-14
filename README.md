@@ -1,38 +1,36 @@
 <!-- README.md de ton profil GitHub -->
 
-<h1 align="center">Salut, moi c'est Léo GRUET alias Rinzler</h1>
-<h3 align="center">Développeur passionné par le Web, les apps et les outils open-source ainsi que le réseau de manière globale</h3>
+<h1 align="center">👋 Salut, moi c'est <span style="color:#ff4d6d">Léo GRUET</span> alias <b>Rinzler</b></h1>
+<h3 align="center">💻 Développeur passionné par le Web, les apps, l’open-source et les réseaux</h3>
 
 ---
 
-### 🧰 Tech Stack
+## 🧰 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,tailwind,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,tailwind,mysql,git,github" alt="Stack technique"/>
 </p>
 
 ---
 
-### 📊 Statistiques GitHub
+## 📊 Statistiques GitHub  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheRinzler65&show_icons=true&theme=radical&hide=issues" alt="Stats GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRinzler65&layout=compact&theme=radical" alt="Langues" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TheRinzler65&show_icons=true&theme=radical&hide=issues" height="165" alt="Stats GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRinzler65&layout=compact&theme=radical" height="165" alt="Langages"/>
 </p>
 
 ---
 
-### 🚀 Projets récents
+## 🚀 Projets récents  
 
-- 🛠️ [MultiTool 3DS](https://github.com/TheRinzler65/MultiTool-3DS) — Outil Windows pour manipuler les fichiers 3DS
-- 📽️ [NDS-Shop](https://github.com/TheRinzler65/NDS-Shop) — An Alternative Nintendo DS Shop for Nintendo 3DS family of systems.
-- 🕹️ [Luma3DSFR](https://github.com/TheRinzler65/Luma3DSFR) — "Custom Firmware" pour Nintendo 3DS
+- 🛠️ [**MultiTool 3DS**](https://github.com/TheRinzler65/MultiTool-3DS) — Outil Windows pour manipuler les fichiers 3DS  
+- 📽️ [**NDS-Shop**](https://github.com/TheRinzler65/NDS-Shop) — Un shop alternatif Nintendo DS pour consoles 3DS  
+- 🕹️ [**Luma3DSFR**](https://github.com/TheRinzler65/Luma3DSFR) — Custom Firmware pour Nintendo 3DS  
 
 ---
 
-### 🌐 Me retrouver ailleurs
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/590070698140237826)](https://discord.com/users/590070698140237826)
+## 🌐 Me retrouver ailleurs  
 
 <p align="center">
   <a href="https://gruetleo.fr" target="_blank"><img src="https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=vercel&logoColor=white" /></a>
@@ -41,11 +39,19 @@
   <a href="mailto:leo.gruet65@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+<p align="center">
+  <a href="https://discord.com/users/590070698140237826">
+    <img src="https://lanyard.cnrad.dev/api/590070698140237826" alt="Discord Presence" />
+  </a>
+</p>
+
 ---
 
-### ✨ Un peu plus sur moi...
+## ✨ Un peu plus sur moi...  
 
-- 🔭 Je suis actuellement en **BTS SIO SISR en première année**
+- 🎓 Étudiant en **BTS SIO SISR** (1ère année)  
+- 🌱 En train d’apprendre en continu pour progresser dans le développement et l’admin système  
+- 🚀 Passionné par les projets **communautaires et open-source**  
 
 ---
 
