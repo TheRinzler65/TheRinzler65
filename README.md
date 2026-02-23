@@ -21,6 +21,7 @@
 
 ## Activité & Projets Récents
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 ---
 
 ## Organisations
