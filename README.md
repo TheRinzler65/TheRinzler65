@@ -20,7 +20,7 @@
 ---
 
 ## Activité & Projets Récents
-
+<!--START_SECTION:activity-->
 ---
 
 ## Organisations
