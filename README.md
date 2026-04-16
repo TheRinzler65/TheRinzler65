@@ -1,8 +1,8 @@
 <div align="center">
 
-# Salut, je suis Léo GRUET (Rinzler)
+# Léo GRUET (Rinzler)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=D%C3%A9veloppeur+en+formation;Administrateur+Syst%C3%A8me+(SISR);Passionn%C3%A9+par+l'Open-Source+%26+les+R%C3%A9seaux" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Développeur+en+formation;Administrateur+Système+(SISR);Passionné+par+l'Open-Source+%26+les+Réseaux" alt="Typing SVG" /></a>
 
 </div>
 
@@ -11,24 +11,27 @@
 ## À propos de moi
 
 - Étudiant en BTS SIO option SISR (1ère année)
-- En apprentissage continu dans le Développement et l'Administration Système
-- Impliqué dans des projets communautaires et l'Open-Source
-- Objectif : Mettre en place des infrastructures robustes et développer des applications performantes.
+- Apprentissage continu en Développement et Administration Système
+- Contributeur sur des projets communautaires et Open-Source
+- Focus : Mise en place d'infrastructures et développement d'applications performantes
 
 ---
 
 ## Stack Technique
 
-### Développement & Web
+### Développement
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,tailwind,mysql" alt="Développement"/>
 </p>
 
-### Outils & Administration
+### Administration & Outils
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,linux,bash,docker,vscode" alt="Outils"/>
 </p>
 
+---
+
+## Activité Récente
 ---
 
 ## Statistiques GitHub
@@ -40,12 +43,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRinzler65&layout=compact&theme=radical&cache_seconds=86400" alt="Langages"/>
-</p>
-
-### Mon Activité Récente
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheRinzler65&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%" alt="Activity Graph" />
 </p>
 
 ---
@@ -63,7 +60,7 @@
 
 ---
 
-## Me Contacter
+## Contact
 
 <p align="center">
   <a href="https://gruetleo.fr" target="_blank"><img src="https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
