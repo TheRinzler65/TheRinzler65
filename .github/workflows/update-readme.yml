@@ -15,10 +15,9 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-
-      - uses: jamesgeorge007/github-activity-readme@master
+      - uses: gautamkrishnar/github-activity-readme@master
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         with:
-          COMMIT_MSG: 'Mise à jour automatique du README'
-          MAX_LINES: 5
+          COMMIT_MSG: 'Mise à jour de l activite'
+          MAX_LINES: 10
