@@ -33,6 +33,7 @@
 
 ## Activité Récente
 <!--START_SECTION:activity-->
+1. 🚀 Published release [v1.0.0](https://github.com/Stellar-Project/IEGOGALAXY_PATCHER_FR/releases/tag/v1.0.0) in [Stellar-Project/IEGOGALAXY_PATCHER_FR](https://github.com/Stellar-Project/IEGOGALAXY_PATCHER_FR)
 <!--END_SECTION:activity-->
 ---
 
