@@ -33,7 +33,7 @@
 
 ## Activité Récente
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0](https://github.com/Stellar-Project/IEGOGALAXY_PATCHER_FR/releases/tag/v1.0.0) in [Stellar-Project/IEGOGALAXY_PATCHER_FR](https://github.com/Stellar-Project/IEGOGALAXY_PATCHER_FR)
+1. 🎉 Merged PR [#3](https://github.com/TheRinzler65/MemoFlow/pull/3) in [TheRinzler65/MemoFlow](https://github.com/TheRinzler65/MemoFlow)
 <!--END_SECTION:activity-->
 ---
 
