@@ -33,7 +33,7 @@
 
 ## Activité Récente
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/TheRinzler65/MemoFlow/pull/3) in [TheRinzler65/MemoFlow](https://github.com/TheRinzler65/MemoFlow)
+1. 🎉 Merged PR [#4](https://github.com/TheRinzler65/MemoFlow/pull/4) in [TheRinzler65/MemoFlow](https://github.com/TheRinzler65/MemoFlow)
 <!--END_SECTION:activity-->
 ---
 
