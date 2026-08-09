@@ -64,9 +64,6 @@ Je contribue aussi à des **projets communautaires et open-source**, notamment a
 
 <p align="center">
   <a href="https://github.com/Stellar-Project">
-    <img src="https://avatars.githubusercontent.com/u/232255736?s=200&v=4" width="52" alt="Stellar Project" style="border-radius: 50%; margin: 0 12px;"/>
-  </a>
-  <a href="https://github.com/NDS-Shop-team">
     <img src="https://avatars.githubusercontent.com/u/216155478?s=200&v=4" width="52" alt="NDS-Shop Team" style="border-radius: 50%; margin: 0 12px;"/>
   </a>
 </p>
