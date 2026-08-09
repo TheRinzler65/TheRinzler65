@@ -20,9 +20,7 @@ Je contribue aussi à des **projets communautaires et open-source**, notamment a
 
 ## Projets & contributions
 
-Une bonne partie de mon travail passe par l'organisation **[Stellar Project](https://github.com/Stellar-Project)**, un collectif autour du homebrew et de la traduction de jeux Nintendo. C'est dans ce cadre que j'ai développé **IEGO Galaxy Patcher FR** : une application homebrew 3DS qui installe directement sur la console le patch de traduction française d'*Inazuma Eleven GO Galaxy* — interface en citro2d, téléchargements repris via libctru, extraction ZIP avec minizip.
-
-Je contribue aussi à d'autres projets communautaires, comme **Loannnnnn's Community**, la refonte complète d'un site pour une communauté homebrew Nintendo *(React · Fastify · Prisma · PostgreSQL)*.
+***Pas dispo***
 
 ---
 
