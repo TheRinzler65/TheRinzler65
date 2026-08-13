@@ -43,13 +43,13 @@ Je contribue aussi à des **projets communautaires et open-source**, notamment a
 ## Un peu d'activité récente
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/NDS-Shop-Homebrew/NDS-Shop/pull/11) in [NDS-Shop-Homebrew/NDS-Shop](https://github.com/NDS-Shop-Homebrew/NDS-Shop)
-2. 💪 Opened PR [#11](https://github.com/NDS-Shop-Homebrew/NDS-Shop/pull/11) in [NDS-Shop-Homebrew/NDS-Shop](https://github.com/NDS-Shop-Homebrew/NDS-Shop)
-3. 🎉 Merged PR [#10](https://github.com/NDS-Shop-Homebrew/NDS-Shop/pull/10) in [NDS-Shop-Homebrew/NDS-Shop](https://github.com/NDS-Shop-Homebrew/NDS-Shop)
-4. 💪 Opened PR [#10](https://github.com/NDS-Shop-Homebrew/NDS-Shop/pull/10) in [NDS-Shop-Homebrew/NDS-Shop](https://github.com/NDS-Shop-Homebrew/NDS-Shop)
-5. 🎉 Merged PR [#9](https://github.com/NDS-Shop-Homebrew/NDS-Shop/pull/9) in [NDS-Shop-Homebrew/NDS-Shop](https://github.com/NDS-Shop-Homebrew/NDS-Shop)
-6. 💪 Opened PR [#9](https://github.com/NDS-Shop-Homebrew/NDS-Shop/pull/9) in [NDS-Shop-Homebrew/NDS-Shop](https://github.com/NDS-Shop-Homebrew/NDS-Shop)
-7. 🎉 Merged PR [#8](https://github.com/NDS-Shop-Homebrew/NDS-Shop/pull/8) in [NDS-Shop-Homebrew/NDS-Shop](https://github.com/NDS-Shop-Homebrew/NDS-Shop)
+1. 🎉 Merged PR [#19](https://github.com/NDS-Shop-Homebrew/NDS-Shop/pull/19) in [NDS-Shop-Homebrew/NDS-Shop](https://github.com/NDS-Shop-Homebrew/NDS-Shop)
+2. 💪 Opened PR [#19](https://github.com/NDS-Shop-Homebrew/NDS-Shop/pull/19) in [NDS-Shop-Homebrew/NDS-Shop](https://github.com/NDS-Shop-Homebrew/NDS-Shop)
+3. 🎉 Merged PR [#18](https://github.com/NDS-Shop-Homebrew/NDS-Shop/pull/18) in [NDS-Shop-Homebrew/NDS-Shop](https://github.com/NDS-Shop-Homebrew/NDS-Shop)
+4. 💪 Opened PR [#18](https://github.com/NDS-Shop-Homebrew/NDS-Shop/pull/18) in [NDS-Shop-Homebrew/NDS-Shop](https://github.com/NDS-Shop-Homebrew/NDS-Shop)
+5. 🎉 Merged PR [#17](https://github.com/NDS-Shop-Homebrew/NDS-Shop/pull/17) in [NDS-Shop-Homebrew/NDS-Shop](https://github.com/NDS-Shop-Homebrew/NDS-Shop)
+6. 💪 Opened PR [#17](https://github.com/NDS-Shop-Homebrew/NDS-Shop/pull/17) in [NDS-Shop-Homebrew/NDS-Shop](https://github.com/NDS-Shop-Homebrew/NDS-Shop)
+7. 🎉 Merged PR [#16](https://github.com/NDS-Shop-Homebrew/NDS-Shop/pull/16) in [NDS-Shop-Homebrew/NDS-Shop](https://github.com/NDS-Shop-Homebrew/NDS-Shop)
 <!--END_SECTION:activity-->
 
 ---
