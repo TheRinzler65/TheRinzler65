@@ -2,7 +2,7 @@
 
 # Léo GRUET · alias Rinzler
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=D%C3%A9veloppeur+full-stack+%26+sysadmin;BTS+SIO+SISR+%E2%86%92+Licence+LID;Self-hosting%2C+homelab+%26+r%C3%A9seaux;Homebrew+Nintendo+%26+open-source" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Alternant+Admin+Syst%C3%A8mes+%26+R%C3%A9seaux;BTS+SIO+SISR+obtenu+%E2%86%92+Licence+LID;Infrastructure+virtualis%C3%A9e+%26+homelab+Proxmox;Automatisation+OSD%2C+veille+techno+active;Open-source+%26+community+work" alt="Typing SVG" /></a>
 
 </div>
 
@@ -10,33 +10,49 @@
 
 ## À propos
 
-Salut, moi c'est Léo. Je viens de décrocher mon **BTS SIO option SISR** et je m'oriente vers la **Licence LID au Mont Roland (Dole)** pour continuer côté développement.
+Salut, moi c'est Léo. **BTS SIO option SISR obtenu** (2024-2026), je m'oriente vers la **Licence Informatique (LID) au Mont Roland – Dole** en alternance, avec un poste d'**Administrateur Systèmes & Réseaux** en ligne de mire.
 
-Je passe le plus clair de mon temps entre le **développement full-stack** (React / TypeScript / Node) et l'**administration système** : j'auto-héberge à peu près tout ce que je peux sur mon propre serveur (Proxmox, Docker, reverse proxy, réseau…), autant pour apprendre que pour le plaisir de comprendre comment les choses tiennent debout.
+Mon temps se partage entre l'**infrastructure et les systèmes** — je virtualise, sécurise et automatise des environnements complets (Proxmox VE, pfSense, Mikrotik, Windows Server, Linux) — et le **développement web** (React / TypeScript / TailwindCSS). J'auto-héberge sur mon propre homelab pour apprendre et comprendre comment les choses tiennent debout.
 
-Je contribue aussi à des **projets communautaires et open-source**, notamment autour du **homebrew Nintendo**, et j'aime bien traîner du côté de la culture japonaise et des mangas quand je ne code pas.
+J'assure aussi une **veille technologique active** sur l'automatisation et le déploiement d'OS (Intune, Autopilot, MDT, Ansible), et je contribue à des **projets communautaires et open-source**, notamment autour du homebrew Nintendo.
 
 ---
 
-## Projets & contributions
+## Projets
 
-***Pas dispo***
+| Projet | Description | Stack |
+|---|---|---|
+| [Portfolio](https://gruetleo.fr) | Portfolio personnel présentant compétences, projets et veille | React, TypeScript, TailwindCSS |
+| **AP2 – Send It** | Infrastructure Proxmox + pfSense pour un site local de partage de fichiers (type WeTransfer) | Proxmox VE, pfSense |
+| **AP3 – Association** | Infrastructure réseau pour hébergement de formulaires d'inscription au don de moelle osseuse | Proxmox, Mikrotik, Windows Server 2022, GLPI, Nextcloud |
+| **AP4 – ELAN** | Infrastructure réseau + supervision pour la centralisation des formulaires du CFA Excellence Pro Franche-Comté | Proxmox, PBS, HAProxy, MariaDB, Zabbix |
+| **Homelab** | Hyperviseur Proxmox personnel : VMs, conteneurs, réseau virtuel, gestion des ressources | Proxmox VE |
+| [IEGO Galaxy FR](https://iegogalaxy.fr) | Site web du patch de traduction française d'Inazuma Eleven GO Galaxy (Stellar Project) | React, TypeScript, TailwindCSS, Vite |
+| **db-nds-shop** | Application homebrew Nintendo DS + site web de gestion de la base de données de jeux | Web, API, Base de données |
 
 ---
 
 ## Stack
 
+**Infrastructure & Réseau**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,linux,debian,bash,docker,proxmox,powershell" alt="Infrastructure"/>
+</p>
+
+> Windows Server, Proxmox VE, pfSense, Mikrotik, Zabbix, GLPI, Nextcloud
+
 **Développement**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,nodejs,php,prisma,mysql,postgres,tauri" alt="Développement"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,vite,php,mysql,html,css,git,github,vscode" alt="Développement"/>
 </p>
 
-**Système & outils**
+---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,docker,proxmox,nginx,cloudflare,git,github,vscode,powershell" alt="Système et outils"/>
-</p>
+## Veille technologique
+
+Automatisation et déploiement d'OS (OSD) : Windows (Intune, Autopilot, MDT) et Linux (Ansible) — suivi de l'évolution vers le provisionnement Cloud et la gestion des postes par le code.
 
 ---
 
@@ -71,7 +87,7 @@ Je contribue aussi à des **projets communautaires et open-source**, notamment a
 
 <p align="center">
   <a href="https://github.com/Stellar-Project">
-    <img src="https://avatars.githubusercontent.com/u/216155478?s=200&v=4" width="52" alt="NDS-Shop Team" style="border-radius: 50%; margin: 0 12px;"/>
+    <img src="https://avatars.githubusercontent.com/u/216155478?s=200&v=4" width="52" alt="Stellar Project" style="border-radius: 50%; margin: 0 12px;"/>
   </a>
 </p>
 
