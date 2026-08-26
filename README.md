@@ -59,11 +59,11 @@ Automatisation et déploiement d'OS (OSD) : Windows (Intune, Autopilot, MDT) et 
 ## Un peu d'activité récente
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/TheRinzler65/MemoFlow/pull/8) in [TheRinzler65/MemoFlow](https://github.com/TheRinzler65/MemoFlow)
-2. 💪 Opened PR [#8](https://github.com/TheRinzler65/MemoFlow/pull/8) in [TheRinzler65/MemoFlow](https://github.com/TheRinzler65/MemoFlow)
-3. 🎉 Merged PR [#2](https://github.com/NDS-Shop-Homebrew/db-nds-shop/pull/2) in [NDS-Shop-Homebrew/db-nds-shop](https://github.com/NDS-Shop-Homebrew/db-nds-shop)
-4. 💪 Opened PR [#2](https://github.com/NDS-Shop-Homebrew/db-nds-shop/pull/2) in [NDS-Shop-Homebrew/db-nds-shop](https://github.com/NDS-Shop-Homebrew/db-nds-shop)
-5. 🎉 Merged PR [#1](https://github.com/NDS-Shop-Homebrew/db-nds-shop/pull/1) in [NDS-Shop-Homebrew/db-nds-shop](https://github.com/NDS-Shop-Homebrew/db-nds-shop)
+1. 🚀 Published release [v1.0.0](https://github.com/NDS-Shop-Homebrew/NDS-Shop-DSi/releases/tag/v1.0.0) in [NDS-Shop-Homebrew/NDS-Shop-DSi](https://github.com/NDS-Shop-Homebrew/NDS-Shop-DSi)
+2. 🎉 Merged PR [#29](https://github.com/NDS-Shop-Homebrew/NDS-Shop/pull/29) in [NDS-Shop-Homebrew/NDS-Shop](https://github.com/NDS-Shop-Homebrew/NDS-Shop)
+3. 💪 Opened PR [#29](https://github.com/NDS-Shop-Homebrew/NDS-Shop/pull/29) in [NDS-Shop-Homebrew/NDS-Shop](https://github.com/NDS-Shop-Homebrew/NDS-Shop)
+4. 🎉 Merged PR [#8](https://github.com/TheRinzler65/MemoFlow/pull/8) in [TheRinzler65/MemoFlow](https://github.com/TheRinzler65/MemoFlow)
+5. 💪 Opened PR [#8](https://github.com/TheRinzler65/MemoFlow/pull/8) in [TheRinzler65/MemoFlow](https://github.com/TheRinzler65/MemoFlow)
 6. 💪 Opened PR [#1](https://github.com/NDS-Shop-Homebrew/db-nds-shop/pull/1) in [NDS-Shop-Homebrew/db-nds-shop](https://github.com/NDS-Shop-Homebrew/db-nds-shop)
 7. 🎉 Merged PR [#28](https://github.com/NDS-Shop-Homebrew/NDS-Shop/pull/28) in [NDS-Shop-Homebrew/NDS-Shop](https://github.com/NDS-Shop-Homebrew/NDS-Shop)
 <!--END_SECTION:activity-->
