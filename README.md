@@ -59,13 +59,13 @@ Automatisation et déploiement d'OS (OSD) : Windows (Intune, Autopilot, MDT) et 
 ## Un peu d'activité récente
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.1](https://github.com/TheRinzler65/azahar-room-server/releases/tag/v1.0.1) in [TheRinzler65/azahar-room-server](https://github.com/TheRinzler65/azahar-room-server)
-2. 🚀 Published release [v1.0.0](https://github.com/TheRinzler65/azahar-room-server/releases/tag/1.0.0) in [TheRinzler65/azahar-room-server](https://github.com/TheRinzler65/azahar-room-server)
-3. 🎉 Merged PR [#1](https://github.com/TheRinzler65/azahar-room-server/pull/1) in [TheRinzler65/azahar-room-server](https://github.com/TheRinzler65/azahar-room-server)
-4. 💪 Opened PR [#1](https://github.com/TheRinzler65/azahar-room-server/pull/1) in [TheRinzler65/azahar-room-server](https://github.com/TheRinzler65/azahar-room-server)
-5. 🎉 Merged PR [#4](https://github.com/TheRinzler65/3ds-homebrew-toolbox/pull/4) in [TheRinzler65/3ds-homebrew-toolbox](https://github.com/TheRinzler65/3ds-homebrew-toolbox)
-6. 💪 Opened PR [#1](https://github.com/NDS-Shop-Homebrew/db-nds-shop/pull/1) in [NDS-Shop-Homebrew/db-nds-shop](https://github.com/NDS-Shop-Homebrew/db-nds-shop)
-7. 🎉 Merged PR [#28](https://github.com/NDS-Shop-Homebrew/NDS-Shop/pull/28) in [NDS-Shop-Homebrew/NDS-Shop](https://github.com/NDS-Shop-Homebrew/NDS-Shop)
+1. 🎉 Merged PR [#3](https://github.com/TheRinzler65/Portfolio/pull/3) in [TheRinzler65/Portfolio](https://github.com/TheRinzler65/Portfolio)
+2. 💪 Opened PR [#3](https://github.com/TheRinzler65/Portfolio/pull/3) in [TheRinzler65/Portfolio](https://github.com/TheRinzler65/Portfolio)
+3. 🚀 Published release [v1.0.1](https://github.com/TheRinzler65/azahar-room-server/releases/tag/v1.0.1) in [TheRinzler65/azahar-room-server](https://github.com/TheRinzler65/azahar-room-server)
+4. 🚀 Published release [v1.0.0](https://github.com/TheRinzler65/azahar-room-server/releases/tag/1.0.0) in [TheRinzler65/azahar-room-server](https://github.com/TheRinzler65/azahar-room-server)
+5. 🎉 Merged PR [#1](https://github.com/TheRinzler65/azahar-room-server/pull/1) in [TheRinzler65/azahar-room-server](https://github.com/TheRinzler65/azahar-room-server)
+6. 💪 Opened PR [#1](https://github.com/TheRinzler65/azahar-room-server/pull/1) in [TheRinzler65/azahar-room-server](https://github.com/TheRinzler65/azahar-room-server)
+7. 🎉 Merged PR [#4](https://github.com/TheRinzler65/3ds-homebrew-toolbox/pull/4) in [TheRinzler65/3ds-homebrew-toolbox](https://github.com/TheRinzler65/3ds-homebrew-toolbox)
 <!--END_SECTION:activity-->
 
 ---
