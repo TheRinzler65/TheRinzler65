@@ -59,13 +59,13 @@ Automatisation et déploiement d'OS (OSD) : Windows (Intune, Autopilot, MDT) et 
 ## Un peu d'activité récente
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/TheRinzler65/Portfolio/pull/3) in [TheRinzler65/Portfolio](https://github.com/TheRinzler65/Portfolio)
-2. 💪 Opened PR [#3](https://github.com/TheRinzler65/Portfolio/pull/3) in [TheRinzler65/Portfolio](https://github.com/TheRinzler65/Portfolio)
-3. 🚀 Published release [v1.0.1](https://github.com/TheRinzler65/azahar-room-server/releases/tag/v1.0.1) in [TheRinzler65/azahar-room-server](https://github.com/TheRinzler65/azahar-room-server)
-4. 🚀 Published release [v1.0.0](https://github.com/TheRinzler65/azahar-room-server/releases/tag/1.0.0) in [TheRinzler65/azahar-room-server](https://github.com/TheRinzler65/azahar-room-server)
-5. 🎉 Merged PR [#1](https://github.com/TheRinzler65/azahar-room-server/pull/1) in [TheRinzler65/azahar-room-server](https://github.com/TheRinzler65/azahar-room-server)
-6. 💪 Opened PR [#1](https://github.com/TheRinzler65/azahar-room-server/pull/1) in [TheRinzler65/azahar-room-server](https://github.com/TheRinzler65/azahar-room-server)
-7. 🎉 Merged PR [#4](https://github.com/TheRinzler65/3ds-homebrew-toolbox/pull/4) in [TheRinzler65/3ds-homebrew-toolbox](https://github.com/TheRinzler65/3ds-homebrew-toolbox)
+1. 🚀 Published release [v1.3.0](https://github.com/Stellar-Project/iegogalaxy.fr/releases/tag/v1.3.0) in [Stellar-Project/iegogalaxy.fr](https://github.com/Stellar-Project/iegogalaxy.fr)
+2. 🎉 Merged PR [#3](https://github.com/TheRinzler65/Portfolio/pull/3) in [TheRinzler65/Portfolio](https://github.com/TheRinzler65/Portfolio)
+3. 💪 Opened PR [#3](https://github.com/TheRinzler65/Portfolio/pull/3) in [TheRinzler65/Portfolio](https://github.com/TheRinzler65/Portfolio)
+4. 🚀 Published release [v1.0.1](https://github.com/TheRinzler65/azahar-room-server/releases/tag/v1.0.1) in [TheRinzler65/azahar-room-server](https://github.com/TheRinzler65/azahar-room-server)
+5. 🚀 Published release [v1.0.0](https://github.com/TheRinzler65/azahar-room-server/releases/tag/1.0.0) in [TheRinzler65/azahar-room-server](https://github.com/TheRinzler65/azahar-room-server)
+6. 🎉 Merged PR [#1](https://github.com/TheRinzler65/azahar-room-server/pull/1) in [TheRinzler65/azahar-room-server](https://github.com/TheRinzler65/azahar-room-server)
+7. 💪 Opened PR [#1](https://github.com/TheRinzler65/azahar-room-server/pull/1) in [TheRinzler65/azahar-room-server](https://github.com/TheRinzler65/azahar-room-server)
 <!--END_SECTION:activity-->
 
 ---
