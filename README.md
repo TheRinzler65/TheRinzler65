@@ -59,8 +59,8 @@ Automatisation et déploiement d'OS (OSD) : Windows (Intune, Autopilot, MDT) et 
 ## Un peu d'activité récente
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.3.0](https://github.com/Stellar-Project/iegogalaxy.fr/releases/tag/v1.3.0) in [Stellar-Project/iegogalaxy.fr](https://github.com/Stellar-Project/iegogalaxy.fr)
-2. 🎉 Merged PR [#3](https://github.com/TheRinzler65/Portfolio/pull/3) in [TheRinzler65/Portfolio](https://github.com/TheRinzler65/Portfolio)
+1. 💪 Opened PR [#30](https://github.com/NDS-Shop-Homebrew/NDS-Shop/pull/30) in [NDS-Shop-Homebrew/NDS-Shop](https://github.com/NDS-Shop-Homebrew/NDS-Shop)
+2. 🚀 Published release [v1.3.0](https://github.com/Stellar-Project/iegogalaxy.fr/releases/tag/v1.3.0) in [Stellar-Project/iegogalaxy.fr](https://github.com/Stellar-Project/iegogalaxy.fr)
 3. 💪 Opened PR [#3](https://github.com/TheRinzler65/Portfolio/pull/3) in [TheRinzler65/Portfolio](https://github.com/TheRinzler65/Portfolio)
 4. 🚀 Published release [v1.0.1](https://github.com/TheRinzler65/azahar-room-server/releases/tag/v1.0.1) in [TheRinzler65/azahar-room-server](https://github.com/TheRinzler65/azahar-room-server)
 5. 🚀 Published release [v1.0.0](https://github.com/TheRinzler65/azahar-room-server/releases/tag/1.0.0) in [TheRinzler65/azahar-room-server](https://github.com/TheRinzler65/azahar-room-server)
